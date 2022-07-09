@@ -29,9 +29,9 @@ function Projects() {
             <ProjectCard
               //imgPath={}
               //isBlog={false}
-              //title=""
+              title="Vegpal"
               //description=""
-              //link="https://github.com/Mitpatel13/"
+              link="https://github.com/Mitpatel13/vegpal-login-page"
             />
           </Col>
 
