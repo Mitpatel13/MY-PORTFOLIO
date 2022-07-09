@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0.0<br/>
- 
+  
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -8,22 +8,13 @@
 
 <br/>
 
-<center>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/beebus/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/beebus/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/beebus/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/beebus/Portfolio/Mitpatel13">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/beebus/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/beebus/Portfolio/Mitpatel13">Request Feature</a>
 </h3>
 
 Welcome to my portfolio website, <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a>, where I can showcase my software development projects, tell you more about me, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
@@ -37,7 +28,7 @@ Welcome to my portfolio website, <a href="https://michaelbeebower.com" target="_
 - Vercel
 
 You can fork this repo to modify and make changes of your own. <br/>
-To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
+
 
 ## Features
 
